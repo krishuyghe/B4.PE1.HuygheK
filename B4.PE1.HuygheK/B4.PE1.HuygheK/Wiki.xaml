@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="B4.PE1.HuygheK.Wiki">
     <ContentPage.Content>
+        <ScrollView>
         <StackLayout>
             <Label Text="Lichtervelde" Style="{DynamicResource TitleStyle}"/>
             <Image Source="lichtervelde.jpg" />
@@ -22,7 +23,8 @@
 Van de heren van Lichtervelde is Sigher het oudst bekende lid. Hij sneuvelde met zijn zoon Walter in 1205 na de Vierde Kruistocht. In die eeuw jaagde de demografische expansie voedsel- en grondprijzen de hoogte in. Hongersnood en armoede en de expansiedrang van de Duitse graven en hertogen, verklaren de Vlaamse en Lichterveldse landverhuizing naar Duitsland. Het gebied tussen Wittenberg, Belzig en Jüterborg wordt 'Der Flaming' genoemd. De landverhuizers prefereerden streken die hen qua bodem en uitzicht bekend voorkwamen.[2] Bossen, moerassen en zandruggen van het braakland rond Berlijn leken op het Houtland en in 1375 dook de naam Lichterfelde bij Berlijn voor het eerst in een oorkonde op. In de negentiende eeuw werd Lichterfelde een residentiële voorstad van Berlijn.
 
 In het middeleeuwse Lichtervelde bestuurden de heren van Lichtervelde de baanderheerlijkheid onder gezag van de burggraaf van het Brugse Vrije vanuit hun omwald kasteel uit de 12de eeuw, in de hoek van de Zwevezele- en Kasteelstraat. Aan het hoofd van de heerlijkheid stond de heer die een baljuw, burgemeester en zes schepenen aanstelde. Hij oefende via de vierschaar (schepenbank) zijn rechtspraak uit. Hij beschikte over een galg op de gemeentegrens, tegenwoordig de Galgenstraat. De beroemdste heer, Jacob van Lichtervelde (?-1431), nam als raadsheer van Filips de Stoute, Jan Zonder Vrees en Filips de Goede twee decennia een prominente politieke plaats bij de Bourgondiërs in. Begin jaren negentig van de veertiende eeuw werd hij hoofdbaljuw en kastelein in Kortrijk. In 1392 werd hij raadsheer en kamerheer van de hertog en een jaar later was hij schepen van het Brugse Vrije. In 1395 was hij opperwachtmeester van Vlaanderen en kastelein in Antwerpen. In 1396 was hij opperbaljuw van Vlaanderen. Hij reisde in 1404 naar Engeland, als gezant bij het hof. Tot 1409 was hij landvoogd van Brabant Het jaar daarop trok hij zich terug op zijn landgoed in Koolskamp en ging zijn aandacht enkel naar het Brugse Vrije. In 1411 werd hij in de adelstand verheven. In 1431 werd hij in zijn parochiekerk in Koolskamp begraven, waar zijn marmeren graftombe te zien is. Zijn grafkelder draagt het opschrift: Die van Lichtervelde, Heeren van Coolscamp en op de tombe staat Ridder die staerf in't jaer 1431, den letsten dagh van Maerte."/>
-
+        
         </StackLayout>
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
