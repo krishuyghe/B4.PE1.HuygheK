@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="B4.PE1.HuygheK.Wiki">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Lichtervelde" Style="{DynamicResource TitleStyle}"/>
+            <Image Source="lichtervelde.jpg" />
+            <Label Text="Lichtervelde is een plaats en gemeente in de Belgische provincie West-Vlaanderen. Het is een woon- en pendelgemeente met landbouw en wat nijverheid en telt ruim 8500 inwoners. Lichtervelde ligt in het Houtland, in het centrum van de provincie tussen Torhout en Roeselare. West-Vlaams is er de spreektaal."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Geografie" Style="{DynamicResource SubtitleStyle}"/>
+            <Label Text="Lichtervelde ligt op de grens van Zandig- (in het noorden) en Zandlemig-Vlaanderen (in het zuiden). De waterrijke gemeente ligt in een van de beekvalleitjes opgevuld met alluviale bodems. Onder meer de Drielinden-, de Muizeveld en de Zwanebeek wateren af naar de IJzer. Het licht golvend reliëf varieert van 49 meter in het zuiden, zijnde het Heihoekplateau, tot 17 meter in het noorden. Dit plateau vormt de waterscheiding tussen het noordelijke IJzerbekken en het zuidelijke Mandel-Leie-Scheldebekken. "            VerticalOptions="CenterAndExpand" 
+               
+                   HorizontalOptions="CenterAndExpand" />
+            
+          </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

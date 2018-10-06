@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="B4.PE1.HuygheK.Picture">
+    <ContentPage.Content>
+        
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+           
+               
+                
+            </Grid.ColumnDefinitions>
+
+            <Image Source="a.jpg"  Aspect="AspectFill"   Grid.Row="0" Grid.Column="0" />
+            <Image Source="b.jpg"  Aspect="AspectFill"   Grid.Row="0" Grid.Column="1" />
+            <Image Source="j.jpg"  Aspect="AspectFill"   Grid.Row="0" Grid.Column="2" />
+            <Image Source="c.jpg"  Aspect="AspectFill"   Grid.Row="1" Grid.Column="0" />
+            <Image Source="d.jpg"  Aspect="AspectFill"   Grid.Row="1" Grid.Column="1" />
+            <Image Source="i.jpg"  Aspect="AspectFill"   Grid.Row="1" Grid.Column="2" />
+            <Image Source="e.jpg"  Aspect="AspectFill"   Grid.Row="2" Grid.Column="0" />
+            <Image Source="f.jpg"  Aspect="AspectFill"   Grid.Row="2" Grid.Column="1" />
+            <Image Source="g.jpg"  Aspect="AspectFill"   Grid.Row="2" Grid.Column="2" />
+            <Image Source="h.jpg"  Aspect="AspectFill"   Grid.Row="3" Grid.Column="1" />
+            
+            
+
+
+       
+            
+
+
+        </Grid>
+      
+    </ContentPage.Content>
+</ContentPage>
